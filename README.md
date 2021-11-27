@@ -1,2 +1,2 @@
-# ORF245
-Repo of R programming from ORF245 (Fundamentals of Statistics) taken at Princeton during Spring 2021.
+# R_Programming
+Repository of R programming during Fundamentals of Statistics course (Spring 2021).
